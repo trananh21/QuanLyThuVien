@@ -1,0 +1,12 @@
+Nhân viên thủ thư, quản lý, độc giả
+- Quản lý có full quyền hạn
+- Thử thư: Không có quản lý nhân viên, người dùng, XUẤT DANH SÁCH CHO MƯỢN SÁCH CỦA MỘT NHÂN VIÊN TRONG NGÀY
+-Độc giả chỉ được tìm kiếm để mượn sách (Độc giả = người đọc)
+
+- Các chức năng: quản lý tác giả, quản lý nhà xuất bản, Quản lý sách, quản lý độc giả, Quản lý lập phiếu mượn trả sách(Lập phiếu mượn cho độc giả), Báo cáo thông kê
+
+Phân quyền chức năng
+Quản lý: quản lý tác giả, quản lý nhà xuất bản, Quản lý sách, quản lý độc giả(Thêm, sửa, xóa, tìm kiếm, sắp xếp)
+Nhân viên: Quản lý mượn trả sách(Lập phiếu mượn cho độc giả) - Sửa phiếu mượn, xóa phiếu mượn, cho phép trả sách.
+Độc giả:
+
